@@ -65,9 +65,9 @@ Eman Faris - [@emann1318](https://github.com/emann1318)
 
 ## Interface Preview
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/1c2b57a3-6b79-45c2-938b-a7c18e4ac990" alt="Pluto" width="200">
-  <img src="https://github.com/user-attachments/assets/6f1a4cb3-5be7-4367-ae5d-d65feeef9efd" alt="Milky Way" width="350">
-  <img src="https://github.com/user-attachments/assets/814d3d04-9a66-4730-9d86-d481d1661520" alt="Visitor Form" width="350">
+  <img src="https://github.com/user-attachments/assets/1c2b57a3-6b79-45c2-938b-a7c18e4ac990" alt="Pluto" width="150">
+  <img src="https://github.com/user-attachments/assets/6f1a4cb3-5be7-4367-ae5d-d65feeef9efd" alt="Milky Way" width="300">
+  <img src="https://github.com/user-attachments/assets/814d3d04-9a66-4730-9d86-d481d1661520" alt="Visitor Form" width="300">
 </div>
 
 ## Data Sources
