@@ -59,7 +59,7 @@ The platform is divided into **three core interfaces**, each customized for diff
 
 ## Team
 Muskan Ahmed - [@muskanas78](https://github.com/muskanas78) (Team Lead)  
-Anaya Noor - [@anayaaaa0](https://github.com/anayaaaa0)
+Anaya Noor - [@anayaaaa0](https://github.com/anayaaaa0)  
 Danyah Sohail - [@danyah03](https://github.com/danyah03)  
 Eman Faris - [@emann1318](https://github.com/emann1318)
 
