@@ -76,6 +76,6 @@ Special thanks to NASA for providing publicly accessible, science-backed data an
 - [NASA Planetary Fact Sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/) – For scientific parameters like orbital periods, mass, diameter, and temperatures of planets and moons.
 - [NASA Science: Solar System Overview](https://science.nasa.gov/solar-system/planets/) – For structured and educational content about planets, moons, and other celestial bodies.
 - [NASA Eyes on the Solar System](https://eyes.nasa.gov/apps/solar-system/#/home) – For interactive 3D modeling and real-time visualization of planets, moons, and spacecraft.
-- [NASA GLTF Embed for Planetary Models](https://solarsystem.nasa.gov/gltf_embed/2364/) – For embedding stunning 3D visuals and textures directly into user-facing reports and the database.
+- [NASA GLTF Embed for Planetary Models](https://solarsystem.nasa.gov/gltf_embed/2393/) – For embedding stunning 3D visuals and textures directly into user-facing reports and the database.
 
 > All data sources were used strictly for academic and educational purposes under publicly available NASA open-access guidelines.
